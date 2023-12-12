@@ -1,20 +1,11 @@
-### Fala, Galera 👋
+<h3>
+  Fala, Galera!
+</h3>
+<p>
+  I'm Felipe, a data enthusiast with a year of experience as a data analyst, currently transitioning into the world of Data Engineering. 🛠️ Originally from Brazil, I've lived in Canada for 6 years, fluent in both Portuguese and English. <br> Passionate about technology and proficient in Python, I love tackling challenges through coding. Excited about the intersection of data and innovation, I'm always exploring new possibilities. 
+</p>
 
-<!--
-**felipe-de-castro/felipe-de-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I´m Felipe 
 
 <h3>
   Languages and Tools:
