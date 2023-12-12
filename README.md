@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 -->
 I´m Felipe 
 
-### :hammer_and_wrench: Languages and Tools :
-
+<h3>
+  Languages and Tools:
+</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   
 </div>
-
+<br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/lfelipedecastro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
