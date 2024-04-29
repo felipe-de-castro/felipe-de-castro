@@ -2,7 +2,8 @@
   Fala, Galera!
 </h3>
 <p>
-  I'm Felipe, a data enthusiast with a year of experience as a data analyst. 🛠️ Originally from Brazil, I've lived in Canada for 6 years, fluent in both Portuguese and English. <br> Passionate about technology and proficient in Python, I love tackling challenges through coding. Excited about the intersection of data and innovation, I'm always exploring new possibilities. 
+  I'm Felipe, a data enthusiast with 2 year of experience as a data analyst and BI. 🛠️ Originally from Brazil, I've lived in Canada for 6 years, fluent in both Portuguese and English. <br> 
+  Passionate about technology and proficient in Python, I love tackling challenges through coding. Excited about the intersection of data and innovation, I'm always exploring new possibilities. 
 </p>
 
 
