@@ -2,10 +2,9 @@
   Hello, world!
 </h3>
 <p>
-  I'm Felipe, currently working as Azure Data Enginner. <br>
-  I have 2 year of experience as Business Intelligence Analyst.<br> 
-  Originally from Brazil and lived abroad in Canada for 6 years, B1 level English. <br> 
-  Passionate about technology and proficient in Python, I love tackling challenges through coding. Excited about the intersection of data and innovation, I'm always exploring new possibilities. 
+Hi, I'm Felipe, a dedicated Azure Data Engineer with 2+ years of experience in Business Intelligence. Originally from Brazil, I've honed my skills while living in Canada for 6 years.<br>
+
+Passionate about leveraging technology to drive insights, I'm proficient in Python and enjoy solving complex problems through data-driven solutions. I'm always eager to explore new technologies and methodologies within the data engineering and analytics space.
 </p>
 
 
